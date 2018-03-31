@@ -5,7 +5,7 @@ This was done because I always struggled with setting up a usable development en
 
 Feel free to use and to contribute!
 
-# What's inside #
+# What's inside
 
 This environment consists of two separate containers:
 
@@ -20,6 +20,11 @@ This environment consists of two separate containers:
   * ROOT-Password: dev
   * User: dev
   * User-Password: dev
+  
+# How to use
 
-## More ##
+1. Copy your webseite files (.html, .php, etc.) into the "www"-folder
+2. Call "docker-compose"
+
+## More
 Website: https://kombas.de
