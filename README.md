@@ -1,7 +1,7 @@
 # dockerdev
 Easy and fast setup of a dev environment with Apache, PHP &amp; MySQL
 
-This was done because I always struggeled with setting up a usable development environment for my websites **fast**.
+This was done because I always struggled with setting up a usable development environment for my websites **fast**.
 
 Feel free to use and to contribute!
 
