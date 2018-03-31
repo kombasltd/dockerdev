@@ -23,7 +23,7 @@ This environment consists of two separate containers:
   
 # How to use
 
-1. Copy your webseite files (.html, .php, etc.) into the "www"-folder
+1. Copy your website files (.html, .php, etc.) into the "www"-folder
 2. Call "docker-compose"
 
 ## More
