@@ -12,9 +12,9 @@ This environment consists of two separate containers:
 1. Webserver (Apache with PHP)
 1. MySQL Server
 
-Apache: alpine
-PHP: 7.1
-MySQL: 5.7
+* Apache: alpine
+* PHP: 7.1
+* MySQL: 5.7
 
 ## More ##
 Website: https://kombas.de
