@@ -24,7 +24,9 @@ This environment consists of two separate containers:
 # How to use
 
 1. Copy your website files (.html, .php, etc.) into the "www"-folder
-2. Call "docker-compose"
+1. Call "docker-compose"
+1. Call "http://localhost" or "https://localhost"
+1. Use any MySQL-client to connect to localhost with port "3306"
 
 ## More
 Website: https://kombas.de
