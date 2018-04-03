@@ -6,7 +6,7 @@ if ($mysqli->connect_errno) {
 $mysqli->query( "SET NAMES 'utf8'");
 */
 
-$link = mysqli_connect("172.18.0.2", "root", "dev");
+$link = mysqli_connect("mysql", "root", "dev");
 
 if (!$link) {
     echo "Error: Unable to connect to MySQL." . PHP_EOL;
