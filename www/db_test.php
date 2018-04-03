@@ -1,11 +1,4 @@
 <?php
-/*$mysqli = new mysqli('mysql', 'dev','dev', 'test' ) or die($mysqli->connect_errno);
-if ($mysqli->connect_errno) {
-    echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
-}
-$mysqli->query( "SET NAMES 'utf8'");
-*/
-
 $link = mysqli_connect("mysql", "root", "dev");
 
 if (!$link) {
