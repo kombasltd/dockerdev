@@ -9,9 +9,11 @@ This environment consists of two separate containers:
 
 - Webserver (Apache with PHP)
   - Apache: alpine
+  - Ports: HTTP -> 80 / HTTPS -> 443
   - PHP: 7.1
 - MySQL Server (shipped with a fresh test database)
   - MySQL: 5.7
+  - Port: standard 3306
   - Test Database Name: test
   - ROOT: root
   - ROOT-Password: dev
