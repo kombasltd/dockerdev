@@ -1,12 +1,6 @@
 <?php
-/*$mysqli = new mysqli('172.18.0.2', 'dev','dev', 'test' ) or die($mysqli->connect_errno);
-if ($mysqli->connect_errno) {
-    echo "Failed to connect to MySQL: (" . $mysqli->connect_errno . ") " . $mysqli->connect_error;
-}
-$mysqli->query( "SET NAMES 'utf8'");
-*/
 
-$link = mysqli_connect("172.18.0.2", "root", "dev");
+$link = mysqli_connect("mysql", "root", "dev");
 
 if (!$link) {
     echo "Error: Unable to connect to MySQL." . PHP_EOL;

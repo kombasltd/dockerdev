@@ -1,1 +1,0 @@
-FROM webdevops/php-apache-dev:alpine
