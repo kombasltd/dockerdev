@@ -1,5 +1,8 @@
 <?php
+<<<<<<< HEAD
 
+=======
+>>>>>>> fd5cf71b211448a24ced9ea3722ed53ebfd1338e
 $link = mysqli_connect("mysql", "root", "dev");
 
 if (!$link) {
