@@ -24,10 +24,13 @@ You need to install Docker first:
 
 https://www.docker.com/community-edition
 
+For a new dev environment just make a copy of this repository and proceed.
+
 1. Start Docker
 2. Run "up.bat" to start the dev environment
 3. Open your browser and navigate to "localhost" for further instructions
 4. Run "down.bat" to stop the dev environment
 
+Your web and database data are stored persistent in the "www" and "dbdata" directory.
 
 Website: https://kombas.de
