@@ -7,17 +7,18 @@ This was done because I always struggled with setting up a usable development en
 
 This environment consists of two separate containers:
 
-Webserver (Apache with PHP)
-MySQL Server (shipped with a fresh test database)
-Apache: alpine
-PHP: 7.1
-MySQL: 5.7
+- Webserver (Apache with PHP)
+- MySQL Server (shipped with a fresh test database)
 
-Test Database Name: test
-ROOT: root
-ROOT-Password: dev
-User: dev
-User-Password: dev
+- Apache: alpine
+- PHP: 7.1
+- MySQL: 5.7
+
+- Test Database Name: test
+- ROOT: root
+- ROOT-Password: dev
+- User: dev
+- User-Password: dev
 
 # Installation and Usage
 
